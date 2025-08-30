@@ -1,6 +1,5 @@
 # 💫 About Me:
-👩‍💻 About Me<br>Hi! I'm Hemalatha P, an enthusiastic and passionate AI Developer 🤖 with a strong foundation in both software and web technologies. I specialize in:<br><br>✨ Programming Languages<br>🔹 Python 🐍<br>🔹 C & Basic C++ 💻<br>🔹 HTML & CSS 🌐<br><br>🧠 Tech Interests<br>🔹 Machine Learning 📊<br>🔹 Deep Learning 🧠<br>🔹 Flask Framework 🧪 (for web app development)👩‍💻 About Me<br>Hi! I'm Hemalatha P, an enthusiastic and passionate AI Developer 🤖 with a strong foundation in both software and web technologies. I specialize in:<br><br>✨ Programming Languages<br>🔹 Python 🐍<br>🔹 C & Basic C++ 💻<br>🔹 HTML & CSS 🌐<br><br>🧠 Tech Interests<br>🔹 Machine Learning 📊<br>🔹 Deep Learning 🧠<br>🔹 Flask Framework 🧪
-
+👩‍💻 About Me<br>Hi! I'm Hemalatha P, an enthusiastic and passionate AI Developer 🤖 with a strong foundation in both software and web technologies. I specialize in:<br><br>✨ Programming Languages<br>🔹 Python 🐍<br>🔹 C & Basic C++ 💻<br>🔹 HTML & CSS 🌐<br><br>🧠 Tech Interests<br>🔹 Machine Learning 📊<br>🔹 Deep Learning 🧠<br>🔹 Flask Framework 🧪 (for web app development)👩‍💻 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hema-latha-709192250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
