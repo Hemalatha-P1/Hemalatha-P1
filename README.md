@@ -5,7 +5,7 @@ Hi! I'm **Hemalatha P**, an enthusiastic and passionate **AI Developer 🤖** wi
 <br>
 
 ✨ **Programming Languages**  
-🔹 Python and Java <img width="5PX" height="5PX" alt="image" src="https://github.com/user-attachments/assets/81077077-06d7-412a-9e1e-1c1a6bfeb615" />
+🔹 Python and Java <img width="15PX" height="15PX" alt="image" src="https://github.com/user-attachments/assets/81077077-06d7-412a-9e1e-1c1a6bfeb615" />
 
   
 🔹 C & C++ 💻  
@@ -17,7 +17,7 @@ Hi! I'm **Hemalatha P**, an enthusiastic and passionate **AI Developer 🤖** wi
 🔹 Deep Learning 🧠  
 🔹 Natural Language Processing (NLP) 🤖  
 🔹 Flask Framework (web page using python) 🧪  
-🔹 GUI <img width="5PX" height="5PX" alt="image" src="https://github.com/user-attachments/assets/941d62f2-84c3-41f8-a112-428d9bd76139" />
+🔹 GUI <img width="15PX" height="15PX" alt="image" src="https://github.com/user-attachments/assets/941d62f2-84c3-41f8-a112-428d9bd76139" />
 
 
 <br>
