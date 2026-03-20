@@ -1,4 +1,4 @@
-# 💫 About Me:
+00000000000000000000000000# 💫 About Me:
 👩‍💻 About Me  
 Hi! I'm **Hemalatha P**, an enthusiastic and passionate **AI Developer 🤖** with a strong foundation in both software and web technologies. I specialize in:
 
@@ -14,7 +14,8 @@ Hi! I'm **Hemalatha P**, an enthusiastic and passionate **AI Developer 🤖** wi
 🔹 Machine Learning 📊  
 🔹 Deep Learning 🧠  
 🔹 Natural Language Processing (NLP) 🤖  
-🔹 Flask Framework 🧪 (Web App Development) & GUI  
+🔹 Flask Framework (web page using python) 🧪  
+🔹 GUI 
 
 <br>
 
